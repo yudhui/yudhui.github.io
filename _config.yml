@@ -21,7 +21,7 @@ repository               : "yudhui/yudhui.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ydh2.jpg"
+  avatar           : "ydh.jpg"
   name             : "Donghui Yu (喻东徽)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. at Shanghai Jiao Tong University"
